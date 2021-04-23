@@ -32,3 +32,7 @@ localhost:[puerto]/example-app/public
 # En este proyecto 
 
 example-app = blog
+
+# para crear controladores, modelos, migraciones, etc
+
+`php artisan make:controller`
